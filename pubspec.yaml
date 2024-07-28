@@ -58,23 +58,17 @@ flutter:
     - assets/
     - assets/fonts/
     - assets/images/
-
-
-assets:
-  - assets/fonts/
-  - assets/images/
-  - assets/docs/
-fonts:
-  - family: OpenSans
-    fonts:
-      - asset: assets/fonts/OpenSans-Regular.ttf
-      - asset: assets/fonts/OpenSans-Bold.ttf
-      - asset: assets/fonts/OpenSans-Light.ttf
-  - family: Raleway
-    fonts:
-      - asset: assets/fonts/Raleway-Bold.ttf
-      - asset: assets/fonts/Raleway-Regular.ttf
-      - asset: assets/fonts/Raleway-Light.ttf
+  fonts:
+    - family: OpenSans
+      fonts:
+        - asset: assets/fonts/OpenSans-Regular.ttf
+        - asset: assets/fonts/OpenSans-Bold.ttf
+        - asset: assets/fonts/OpenSans-Light.ttf
+    - family: Raleway
+      fonts:
+        - asset: assets/fonts/Raleway-Bold.ttf
+        - asset: assets/fonts/Raleway-Regular.ttf
+        - asset: assets/fonts/Raleway-Light.ttf
 
 
 
